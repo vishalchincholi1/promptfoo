@@ -6,10 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [0.123.1](https://github.com/promptfoo/promptfoo/compare/0.123.0...0.123.1) (2026-09-10)
 
-
 ### Bug Fixes
 
-* **providers:** forward Snowflake provider configuration ([#10878](https://github.com/promptfoo/promptfoo/issues/10878)) ([7d0bacd](https://github.com/promptfoo/promptfoo/commit/7d0bacde37051ff78ae78a2d7a6d27a5c66850f1))
+- **providers:** forward Snowflake provider configuration ([#10878](https://github.com/promptfoo/promptfoo/issues/10878)) ([7d0bacd](https://github.com/promptfoo/promptfoo/commit/7d0bacde37051ff78ae78a2d7a6d27a5c66850f1))
 
 ## [0.123.0](https://github.com/promptfoo/promptfoo/compare/0.122.2...0.123.0) (2026-09-10)
 
